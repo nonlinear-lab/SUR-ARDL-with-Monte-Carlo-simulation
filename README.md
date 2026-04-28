@@ -8,5 +8,6 @@ this repository contains R-codes for SUR-ARDL analysis including Monte Carlo sim
 6 R-codes for SUR analysis with manual calculation
 7 R-codes for SUR-ARDL analysis with systemfit function
 8 R-codes for SUR-ARDL analysis with "sur_ardl_bounds" function
+8 R-codes for SUR-ARDL analysis with "sur_ardl_bounds" function with Wald-based F-statistic
 9 R-codes for Monte Carlo simulation for SUR-ARDL analysis for I(0)
 10 R-codes for Monte Carlo simulation for SUR-ARDL analysis for I(1)
